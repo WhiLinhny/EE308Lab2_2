@@ -1,0 +1,36 @@
+/* Load/load.wxss */
+image{
+  position: absolute;
+  height: 100%;
+  width: 100%;
+}
+.buttonR{
+  width: 350rpx;
+  height: 180rpx;
+  position: fixed;
+  right: 200rpx;
+  left: 200rpx;
+  bottom: 530rpx;
+}
+.buttonG{
+  width: 350rpx;
+  height: 180rpx;
+  position: fixed;
+  right: 200rpx;
+  left: 200rpx;
+  bottom: 650rpx;
+}
+.buttonZ{
+  width: 350rpx;
+  height: 180rpx;
+  position: fixed;
+  right: 200rpx;
+  left: 200rpx;
+  bottom: 770rpx;
+}
+.bottom{
+  position: absolute;
+  bottom: 0px;
+  right: 0;
+  left: 0;
+}

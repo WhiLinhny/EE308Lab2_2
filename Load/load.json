@@ -1,0 +1,9 @@
+{
+  "navigationBarBackgroundColor": "#481685",
+  "usingComponents": {
+    "van-button": "@vant/weapp/button/index",
+    "van-icon": "@vant/weapp/icon/index",
+    "van-picker": "@vant/weapp/picker/index",
+    "van-slider": "@vant/weapp/slider/index"
+  }
+}

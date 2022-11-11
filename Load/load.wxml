@@ -1,0 +1,35 @@
+<view class="load">
+  <image src="cloud://music-1gmssxew6c2d4dfb.6d75-music-1gmssxew6c2d4dfb-1314937408/首页背景.JPG" mode="scaleToFill"></image>
+  <image src="cloud://music-1gmssxew6c2d4dfb.6d75-music-1gmssxew6c2d4dfb-1314937408/goodbowl.png" class='bottom' mode="aspectFit">
+    <button>按钮</button>
+  
+<button>按钮</button>
+</image>
+  <other-widget class="content">
+
+    <view class="goto_singleGame">
+            <navigator url='../singleGame/singleGame'>
+                <image src='cloud://music-1gmssxew6c2d4dfb.6d75-music-1gmssxew6c2d4dfb-1314937408/自娱自乐.png' class='buttonZ' mode="aspectFit"></image>
+            </navigator>
+        </view>
+      
+        <view class="goto_groupleGame">
+            <navigator url='../groupGame/groupGame'>
+                <image src='cloud://music-1gmssxew6c2d4dfb.6d75-music-1gmssxew6c2d4dfb-1314937408/多人对战.png' class='buttonG' mode="aspectFit" style="position: fixed; left: 201rpx; top: 613rpx"></image>
+            </navigator>
+        </view>
+
+      <view class="goto_gameRule">
+            <navigator url='../gameRule/gameRule'>
+                <image src='cloud://music-1gmssxew6c2d4dfb.6d75-music-1gmssxew6c2d4dfb-1314937408/游戏规则.png' class='buttonR' mode="aspectFit" style="position: fixed; left: 201rpx; top: 731rpx"></image>
+            </navigator>
+        </view>
+
+
+
+
+   
+     
+      </other-widget>
+      
+</view>

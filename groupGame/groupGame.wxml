@@ -1,0 +1,15 @@
+<view class="container">
+    <image class="bgImg" src="../image/groupbackground.JPG"></image>
+    <other-widget class="other-widget">
+        <view class="gotopage_create">
+            <navigator url='../createRoom/createRoom'>
+                <view class='createRoom'>创建房间</view>
+            </navigator>
+        </view>
+        <view class="gotopage_join">
+            <navigator url=''>
+                <view class='randomMatch' >随机匹配</view>
+            </navigator>
+        </view>
+    </other-widget>  <!-- other widget希望是放在背景图片之上的 -->
+</view>

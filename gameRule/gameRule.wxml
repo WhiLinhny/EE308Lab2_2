@@ -1,0 +1,5 @@
+<!--gameRule/gameRule.wxml-->
+<view class="gameRule">
+<image src="cloud://music-1gmssxew6c2d4dfb.6d75-music-1gmssxew6c2d4dfb-1314937408/rule.png" >
+</image>
+</view>
