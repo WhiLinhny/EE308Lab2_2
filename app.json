@@ -1,0 +1,21 @@
+{
+  "pages": [
+    "Load/load",
+    "singleGame/singleGame",
+    "groupGame/groupGame",
+    "gameRule/gameRule",
+    "music/music",
+    "createRoom/createRoom",
+    "test/test"
+  ],
+  "window": {
+    "backgroundColor": "#F6F6F6",
+    "backgroundTextStyle": "light",
+    "navigationBarTitleText": "Lin氏博饼",
+    "navigationBarTextStyle": "white"
+  },
+  "requiredBackgroundModes": [
+    "audio"
+  ],
+  "sitemapLocation": "sitemap.json"
+}
